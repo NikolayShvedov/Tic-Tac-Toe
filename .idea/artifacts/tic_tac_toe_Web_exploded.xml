@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tic_tac_toe:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tic_tac_toe_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tic_tac_toe/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tic_tac_toe" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
